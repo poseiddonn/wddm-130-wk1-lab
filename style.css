@@ -1,0 +1,17 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+.btn {
+    background: blue;
+    color: white;
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
